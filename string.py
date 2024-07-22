@@ -1,8 +1,8 @@
-#in this code we add a string and orint them 
+#in this code we add a string and or int them 
 name="Harrry"
 print("hello" +name)
 
-#this the example of pranthesis using in program single or double we sue anyone else
+#this the example of pranthesis using in program single or double we use anyone else
 print('he said "I want to eat an apple"')
 
 #when we want to add multiple lines in string use """ this triple paranthesis
