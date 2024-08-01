@@ -23,3 +23,4 @@ print("lets use for loop \n")
 
 for character in game:
     print(character)
+     
