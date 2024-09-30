@@ -11,3 +11,7 @@ print("Some imp lines of code")
 print("End of prgoram")
 
 # another type of 
+try:
+    num = int(input("Enter and integer: "))
+except ValueError:
+   print("Number entered is not integer")
